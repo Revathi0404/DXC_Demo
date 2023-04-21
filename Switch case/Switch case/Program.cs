@@ -5,12 +5,13 @@
         static void Main(string[] args)
         {
             int num1, num2,a;
-            Console.WriteLine(" enter the   number 1");
+            Console.WriteLine(" enter the number 1");
             num1 = Convert.ToInt16(Console.ReadLine());
 
-            Console.WriteLine(" enter the   number 2");
+            Console.WriteLine(" enter the number 2");
             num2 = Convert.ToInt16(Console.ReadLine());
-            Console.WriteLine(" enter the   operator");
+
+            Console.WriteLine(" enter the operator");
             Char op = Convert.ToChar(Console.ReadLine());
             
 
